@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @theonrex
 - 👀 I’m interested in web development
 - 🌱 React.js
-- 💞️ I’m looking to collaborate on frontend project
+- 💞️ I’m looking to collaborate on a frontend web development project
 - 📫 How to reach me (theonrex1@gmail.com or whatsapp +2347063528046)
 
 <!---
