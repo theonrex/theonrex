@@ -46,11 +46,11 @@ Olawande Armstrong is a Frontend Web Engineer with a passion for open-source tec
 
 <br>
 
-<li>
+<!-- <li>
 <a href="armstrongbamidele1@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  armstrongbamidele1-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
-</li>
+</li> -->
 	
 </ul>
 </div>
