@@ -17,7 +17,7 @@ Olawande Armstrong is a Frontend Web Engineer with a passion for open-source tec
 <br>
 
 - 👯 I’m looking to collaborate on frontend open source projects.
-- 📫 How to reach me (theonrex1@gmail.com or whatsapp +2347063528046)
+- 📫 How to reach me (armstrongbamidele1@gmail.com or whatsapp +2347063528046)
 - I’m currently open for an Intern or a new job opportunity.
 
 <br><br>
