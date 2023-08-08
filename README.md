@@ -14,15 +14,6 @@ Olawande Armstrong is a Frontend Web Engineer with a passion for open-source tec
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 
-<br>
-
-- 👯 I’m looking to collaborate on frontend open source projects.
-- 📫 How to reach me (armstrongbamidele1@gmail.com)
-- I’m currently open for an Intern or a new job opportunity.
-
-<br><br>
-
-
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
