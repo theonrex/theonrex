@@ -30,7 +30,7 @@ Olawande Armstrong is a Frontend Web Engineer with a passion for open-source tec
 
 <li>
 <a href="https://twitter.com/olawande0x" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  olawande0x%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/twitter:  codebyrex%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
 
