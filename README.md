@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm Olawande Armstrong </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-Olawande Armstrong is a Frontend Web Engineer with a passion for open-source technologies and blockchain. As a technical writer, he enjoys sharing his knowledge through articles that cover a range of topics including frontend development, blockchain technologies.  You can find his articles on his website where he shares his insights and perspectives on the latest developments in the world of technology. https://armstrongolawande.hashnode.dev/
+Olawande Armstrong is a Documentation Engineer with a passion for open-source technologies and blockchain. As a technical writer, he enjoys sharing his knowledge through articles that cover a range of topics including frontend development, blockchain technologies.  You can find his articles on his website where he shares his insights and perspectives on the latest developments in the world of technology. https://armstrongolawande.hashnode.dev/
 </p>
 
 
